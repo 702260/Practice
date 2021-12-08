@@ -5,3 +5,5 @@ demo2 from remote to check git pull behaviour.
 to check cross branch behaviour of git.
 
 checking rebase from main local.
+
+checking force push from main local.
