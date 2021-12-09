@@ -7,3 +7,6 @@ to check cross branch behaviour of git.
 checking rebase from main local.
 
 checking force push from main local.
+Checking rebase for backend branch from local.
+
+Checking force push from local back_end.
