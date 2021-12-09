@@ -10,3 +10,5 @@ checking force push from main local.
 Checking rebase for backend branch from local.
 
 Checking force push from local back_end.
+
+Checking for git amend command.
